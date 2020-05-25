@@ -1,0 +1,17 @@
+{
+  "name": "webpack-bundle-style-files",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "bundle": "webpack"
+  },
+  "devDependencies": {
+    "file-loader": "^6.0.0",
+    "url-loader": "^4.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "keywords": [],
+  "author": "Lux Liu",
+  "license": "ISC"
+}
